@@ -1,0 +1,6 @@
+fastapi
+"uvicorn[standard]"
+cohere
+langchain 
+playwright 
+beautifulsoup4

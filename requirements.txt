@@ -1,0 +1,11 @@
+streamlit
+streamlit-tags
+requests
+fastapi
+"uvicorn[standard]"
+langchain-openai 
+langchain 
+playwright 
+beautifulsoup4
+cohere
+python-dotenv

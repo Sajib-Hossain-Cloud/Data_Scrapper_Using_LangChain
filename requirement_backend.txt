@@ -1,0 +1,6 @@
+fastapi
+"uvicorn[standard]"
+langchain-openai 
+langchain 
+playwright 
+beautifulsoup4
